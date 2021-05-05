@@ -1,0 +1,34 @@
+{
+  "block.gud_utils.elevator": "Elevator",
+
+  "commands.gud_utils.flim_flam.failure": "Could not find any targets to Flim-Flam",
+  "commands.gud_utils.flim_flam.success.multiple": "Flim-Flammed %s targets",
+  "commands.gud_utils.flim_flam.success.single": "Flim-Flammed 1 target",
+  "commands.gud_utils.flim_flam.unknown": "Unknown Flim-Flam",
+
+  "enchantment.gud_utils.attraction": "Curse of Attraction",
+  "enchantment.gud_utils.attraction.info": "Reverses inflected knockback",
+  "enchantment.gud_utils.breaking": "Curse of Breaking",
+  "enchantment.gud_utils.breaking.info": "Increases durability usage",
+  "enchantment.gud_utils.flight": "Flight",
+  "enchantment.gud_utils.flight.info": "Grants flight with all armor enchanted",
+  "enchantment.gud_utils.flim_flam": "FlimFlam",
+  "enchantment.gud_utils.flim_flam.info": "Flims your flams",
+  "enchantment.gud_utils.ice": "Curse of Ice",
+  "enchantment.gud_utils.ice.info": "Ice physics everywhere",
+  "enchantment.gud_utils.swift_strike": "Swift Strike",
+  "enchantment.gud_utils.swift_strike.info": "Decreases sword cooldown",
+  "enchantment.gud_utils.swiftness": "Swiftness",
+  "enchantment.gud_utils.swiftness.info": "Increases movement speed",
+  "enchantment.gud_utils.useless": "Curse of Uselessness",
+  "enchantment.gud_utils.useless.info": "Makes an item irreparable",
+  "enchantment.gud_utils.warding": "Warding",
+  "enchantment.gud_utils.warding.info": "Retains item on death",
+
+  "item.gud_utils.color_rune": "Color Rune",
+
+  "itemGroup.gud_utils.group": "gudUtils",
+
+  "tooltip.gud_utils.enchantcolor.named": "Rune Color: ",
+  "tooltip.gud_utils.enchantcolor.numaric": "Rune Color: "
+}

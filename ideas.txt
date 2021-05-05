@@ -1,0 +1,37 @@
+Blocks:
+- Elevator ✓
+- Cursed Enchanting Table
+
+Enchantments:
+- Flim-Flam
+- Swift Strike ✓
+- Swiftness ✓
+- Flight ✓
+- Warding ✓
+- Color runes ✓
+
+Curses:
+- Curse of Uselessness ✓
+- Curse of Attraction ✓
+- Curse of Damage
+- Curse of Breaking ✓
+- Curse of Featherweight
+- Curse of Molasses
+- Curse of [!Looting]
+- Curse of Drowning
+- Curse of [!Depth Strider]
+- Bane of Tater
+- Curse of Atrophy
+- Curse of Blasting
+- Curse of Flames
+- Curse of Restrition
+- Curse of Malnutrition
+- Curse of Immunity
+- Curse of Osteoporosis
+- Curse of Ice ✓
+- Curse of The End
+- Curse of Illumination
+- Curse of Chiroptera
+- Curse of Deafening
+- Curse of Keen
+- Curse of Quake

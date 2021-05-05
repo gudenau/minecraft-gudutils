@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "gud_utils",
+  "version": "${version}",
+
+  "name": "gudUtils",
+  "description": "A bunch of misc junk, have fun!",
+  "authors": [
+    "gudenau"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/gudenau/minecraft-gudutils"
+  },
+
+  "license": "",
+  "icon": "assets/gud_utils/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.gudenau.minecraft.gudutils.GudUtils"
+    ],
+    "client": [
+      "net.gudenau.minecraft.gudutils.GudUtilsClient"
+    ],
+    "cardinal-components-entity": [
+      "net.gudenau.minecraft.gudutils.GudUtilsCCA"
+    ]
+  },
+  "mixins": [
+    "gud_utils.mixins.json",
+    "gud_utils.accessors.json"
+  ],
+  "accessWidener": "gud_utils.accesswidener",
+
+  "custom": {
+    "cardinal-components": [
+      "gud_utils:flim_flam"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {}
+}

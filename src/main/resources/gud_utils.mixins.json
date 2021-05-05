@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gudenau.minecraft.gudutils.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "PlayerEntityMixin"
+  ],
+  "client": [
+    "client.ClientPlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "plugin": "net.gudenau.minecraft.gudutils.mixin.Plugin"
+}

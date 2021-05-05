@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gudenau.minecraft.gudutils.accessor",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "DyeColorAccessor"
+  ],
+  "client": [
+    "client.RenderPhaseAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
